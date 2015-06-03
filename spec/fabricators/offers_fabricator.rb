@@ -1,0 +1,2 @@
+Fabricator(:offer) do
+end

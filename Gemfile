@@ -11,3 +11,7 @@ group :development do
   gem 'fakefs', '~> 0.4'
   gem 'fasterer', '~> 0.1.8'
 end
+
+group :test do
+  gem 'fabrication'
+end

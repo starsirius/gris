@@ -59,6 +59,7 @@ GEM
     diff-lcs (1.2.5)
     dotenv (1.0.2)
     equalizer (0.0.11)
+    fabrication (2.13.2)
     fakefs (0.6.7)
     fasterer (0.1.8)
       colorize (~> 0.7)
@@ -204,6 +205,7 @@ DEPENDENCIES
   acts_as_fu (~> 0)
   bundler
   byebug
+  fabrication
   fakefs (~> 0.4)
   fasterer (~> 0.1.8)
   gris!
